@@ -32,4 +32,4 @@ SQLAlchemy==1.2.8
 text-unidecode==1.2
 uritemplate==3.0.0
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
